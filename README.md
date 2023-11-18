@@ -1,1 +1,1 @@
-# VanillaNuzlockeCalc
+# Max Red Damage Calc
